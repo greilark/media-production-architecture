@@ -22,8 +22,8 @@ The core of this architecture is the strategic offloading of the video pipeline.
 As a **Technical Marketing Engineer**, I utilize this infrastructure to bridge the gap between complex hardware capabilities and audience understanding. This project serves as a **Proof of Concept (PoC)** for how hardware-software synergy can be used to deliver high-impact technical content without sacrificing system reliability.
 
 ---
-**Sample committed at:** [github.com/greimedia](https://github.com/greimedia) | **Live Demo:** [Twitch.tv/Greilark](https://Twitch.tv/Greilark)
+**Sample committed at:** [github.com/greimedia](https://github.com/greimedia)
 
 ### 📁 Documents
 * [Technical Solution Brief - NVENC Optimization](./sdr-sessions-multi-camera-move-demo.pdf)
-* 30-second clip at [twitch.tv/greilark](https://www.twitch.tv/videos/2700985643)
+* Live Demo [twitch.tv/greilark](https://www.twitch.tv/videos/2700985643)
